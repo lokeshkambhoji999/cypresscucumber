@@ -1,0 +1,30 @@
+{
+  
+  "invalidmail": "abc@def.com" ,
+  "invalidpassword" : "Second",
+  "validmail" : "saravanan.thilagar@qualitestgroup.com",
+  "validpassword" : "Saravanan@10",
+  "surname" : "TESTING",
+  "firstname" : "fname",
+  "phonenum" : "1234567890",
+  "Adress" : "New Street",
+  "City" : "Hyderabad",
+  "Country" : "India",
+  "Postcode" : "500050",
+  "incidents": "Accident",
+  "registration": "tn65 S0099",
+  "AnnualMileage": "45",
+  "estimatedvalue": "1,00,000",
+  "identificationnumber": "17945",
+  "parkinglocation" : "Public place",
+  "policydate" : "2018.3.10"
+
+
+
+  
+
+
+
+
+
+}
